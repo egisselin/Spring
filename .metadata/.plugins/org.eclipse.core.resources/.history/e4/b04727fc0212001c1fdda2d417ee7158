@@ -1,0 +1,5 @@
+package com.consultoriasoftware.springboot.web.app.controllers;
+
+public class IndexController {
+
+}
